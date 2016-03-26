@@ -1,0 +1,2 @@
+# poho
+We provide the small and low energy device that can transfer GPS signal to web server and connecting SIM card with GSM. Whenever parent call the SIM Card inside the device which will be a turn on GPS and 3G. The web server will notify local street heroes or local people who register to anti-crime.  Whenever the device moves across nearby them, the web server will send a message like "please help me, I am kidnapping, please check the link (www.poho.vn/0983211849) to see my avatar and my location, call 0983211849 to call my parent".
